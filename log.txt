@@ -1,0 +1,5 @@
+commit 04f7e1db1371bf4f25120ed97060d60df4e664d3
+Author: Chris Impicciche <Bakudan@Chriss-MacBook.local>
+Date:   Mon Apr 4 14:18:21 2016 -0500
+
+    I am adding files to git!
